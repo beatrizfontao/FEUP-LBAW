@@ -1,0 +1,12 @@
+.element-name{
+    text-decoration: none;
+    color: #4c5475; 
+}
+
+{box-sizing: border-box;}
+
+/* Button used to open the contact form - fixed at the bottom of the page */
+
+.star-rating input[type="radio"]{
+  -webkit-appearance: none;
+}

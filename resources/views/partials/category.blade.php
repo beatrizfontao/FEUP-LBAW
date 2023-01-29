@@ -1,0 +1,1 @@
+<a class="dropdown-item" href="/category/{{$category->id_category}}">{{$category->name}} </a>
